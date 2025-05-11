@@ -8,7 +8,7 @@ repository: "Jalini/jalini.github.io"
 github_username: Jalini
 
 minimal_mistakes_skin: default
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 author:
   name: "Jalini M. Rajapakse"
