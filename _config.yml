@@ -6,8 +6,8 @@ url: "https://jalini.github.io"
 baseurl: ""
 repository: "Jalini/jalini.github.io"
 github_username: Jalini
-
-minimal_mistakes_skin: default
+logo: "/assets/images/Logo.png"
+minimal_mistakes_skin: "sunrise"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 author:
