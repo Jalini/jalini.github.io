@@ -12,9 +12,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 author:
   name: "Jalini M. Rajapakse"
-  avatar: "/assets/images/profile.jpg"  # Add this file manually
-  bio: >
-    8+ years in clinical diagnostics, oncology data science, and NGS pipelines. Specialist in CLIA-compliant workflows, variant annotation, and bioinformatics automation.
+  avatar: "/assets/images/GenAI.png"  # Use your uploaded logo or profile image
+  bio: "8+ years in clinical diagnostics, oncology data science, and NGS pipelines. Specialist in CLIA-compliant workflows, variant annotation, and bioinformatics automation."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
