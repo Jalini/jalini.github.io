@@ -1,8 +1,15 @@
 ---
-permalink: /about/
 title: "About"
+layout: single
+permalink: /about/
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m a **Bioinformatics and Data Science professional** with over 8 years of experience in clinical diagnostics, oncology data analysis, and ML-assisted genomic pipelines. My strengths include:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- Developing **CLIA-compliant NGS pipelines** for RNA-seq, WES, and single-cell data
+- Building and automating data workflows using **Python**, **R**, **SQL**, and **Nextflow**
+- Creating **visual dashboards** with **R Shiny** and **Tableau** to support clinical decision-making
+- Leading cross-functional teams in fast-paced regulated environments
+
+I specialize in transforming multi-omics and EMR-derived data into actionable clinical insights that accelerate translational research and precision medicine initiatives.
