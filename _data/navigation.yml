@@ -1,7 +1,10 @@
 main:
   - title: "About"
     url: /about/
+
   - title: "Projects"
     url: /projects/
+
   - title: "Resume"
+    url: /Resume.pdf
 
