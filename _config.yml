@@ -7,7 +7,7 @@ baseurl: ""
 repository: "Jalini/jalini.github.io"
 github_username: Jalini
 logo: "/assets/images/GenAI.png""
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "air"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 author:
