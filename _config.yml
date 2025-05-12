@@ -1,17 +1,20 @@
-title: "Jalini M. Rajapakse"
-email: "jalinir@bu.edu"
+
+title: "GenAILytics"
+email: jalinir@bu.edu
 description: >-
   Where Genomics Meets AI and Data Science
 url: "https://jalini.github.io"
-baseurl: " "
+baseurl: ""  # Leave empty for user.github.io sites
 repository: "Jalini/jalini.github.io"
 github_username: Jalini
+
 logo: "/assets/images/GenAI.png"
 minimal_mistakes_skin: "air"
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+remote_theme: "mmistakes/minimal-mistakes"
+
 author:
   name: "Jalini M. Rajapakse"
-  avatar: "/assets/images/GenAI.png"  # Use your uploaded logo or profile image
+  avatar: "/assets/images/GenAI.png"
   bio: "8+ years in clinical diagnostics, oncology data science, and NGS pipelines. Specialist in CLIA-compliant workflows, variant annotation, and bioinformatics automation."
   links:
     - label: "LinkedIn"
@@ -33,4 +36,4 @@ kramdown:
   input: GFM
 
 plugins:
-- jekyll-include-cache
+  - jekyll-include-cache
