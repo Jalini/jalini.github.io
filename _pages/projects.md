@@ -1,4 +1,5 @@
 --
+layout: portfolio
 title: "Projects"
 layout: single
 permalink: /projects/
