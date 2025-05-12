@@ -5,11 +5,14 @@ permalink: /about/
 author_profile: true
 ---
 
-I’m **Jalini M. Rajapakse**, a genomic data scientist and bioinformatician passionate about the intersection of AI, NGS, and clinical diagnostics.
+I’m **Jalini M. Rajapakse**, a bioinformatics and data science professional with 8+ years of experience in clinical diagnostics, oncology, and next-generation sequencing (NGS).
 
-I specialize in:
-- CLIA-compliant NGS pipeline automation
+### 🔬 Core Expertise:
+- CLIA-compliant NGS pipeline development (RNA-Seq, WES)
 - Variant annotation using GATK, gnomAD, and machine learning
-- Multi-omics data integration and visualizations using Python, R, and AWS
+- Multi-omics data integration with clinical and EMR datasets
+- Bioinformatics automation using Python, Nextflow, AWS
 
-Feel free to check out my [Projects](/projects/) or reach me via [Email](mailto:jalinir@bu.edu).
+I enjoy building tools that turn complex data into clinical insights and collaborating across research, data science, and engineering teams.
+
+Feel free to check out my [Projects](/projects/) or [Download My Resume](/Resume.pdf).
