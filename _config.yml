@@ -26,6 +26,11 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:jalinir@bu.edu"
 
+collections:
+  pages:
+    output: true
+    permalink: /:title/      
+
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
