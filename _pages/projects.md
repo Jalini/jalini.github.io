@@ -1,11 +1,9 @@
---
+---
 layout: portfolio
 title: "Projects"
-layout: single
 permalink: /projects/
 author_profile: true
 ---
-
 ### 🧬 NGS Variant Annotation Workflow
 - Designed pipelines using **GATK**, **ML-assisted tools**, and **gnomAD** for variant classification.
 - Supported **Genomic Variant Science** group with annotation and pathogenicity scoring.
