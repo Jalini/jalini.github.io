@@ -1,7 +1,7 @@
 title: "Jalini M. Rajapakse"
 email: "jalinir@bu.edu"
 description: >-
-  Data Scientist | Bioinformatics Expert | NGS | Oncology  R Shiny | Tableau | Variant Annotation
+  Where Genomics Meets AI and Data Science
 url: "https://jalini.github.io"
 baseurl: ""
 repository: "Jalini/jalini.github.io"
@@ -9,7 +9,6 @@ github_username: Jalini
 logo: "/assets/images/GenAI.png""
 minimal_mistakes_skin: "air"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-
 author:
   name: "Jalini M. Rajapakse"
   avatar: "/assets/images/GenAI.png"  # Use your uploaded logo or profile image
