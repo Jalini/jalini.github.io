@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 🧬 NGS Variant Annotation Workflow
-![NGS Variant Annotation Workflow](/assets/images/variant_pipeline.png)
+![NGS Variant Annotation Workflow](/assets/images/ngs_variant_pipeline.png)
 
 - Designed pipelines using **GATK**, **ML-assisted tools**, and **gnomAD** for variant classification.
 - Supported **Genomic Variant Science** group with annotation and pathogenicity scoring.
